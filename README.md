@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/Warshow"><img src="https://api.daily.dev/devcards/5c85a2483f804ce0bba2b867eda4b650.png?r=7yx" width="400" alt="Guilmeau Joffrey's Dev Card"/></a>
+<a href="https://app.daily.dev/Warshow"><img src="https://api.daily.dev/devcards/5c85a2483f804ce0bba2b867eda4b650.png?r=7yx" width="200" alt="Guilmeau Joffrey's Dev Card"/></a>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649d8666d99c9d67319fd1f2?variant=dark)](https://roadmap.sh)
